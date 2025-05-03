@@ -3,7 +3,7 @@ package com.example;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-public class FactureTest {
+public class FactureServletTest {
     
     @Test
     public void testAjouterLigne() {
